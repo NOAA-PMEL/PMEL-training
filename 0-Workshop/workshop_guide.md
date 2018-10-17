@@ -96,13 +96,17 @@ The Project Management tools within Github
 
 2. Select the "GitHub Training Test Board"<br>
    ![alt text](images/github_projects_window.png "Select Project")
+
 3. Create a task within the "GitHub Training Test Board" project<br>
     ![alt text](images/github_projects_addtask.png "Select Project")
     ![alt text](images/github_projects_addtask2.png "Select Project")
+
     Click "Add" when you're done filling in the issue
-4. Drag that task to "In progress"
+
+4. Drag that task to "In progress"<br>
     ![alt text](images/github_projects_dragtask.png "Select Project")
-5. Complete!
+
+5. Complete!<br>
     ![alt text](images/github_projects_complete.png "Select Project")
 
 --------------
@@ -110,17 +114,22 @@ The Project Management tools within Github
 
 ## 4. Issue tracking
 The GitHub issue tracker is a fantastic way to track
-1. Go to the Issues tab
+1. Go to the Issues tab<br>
    ![alt text](images/github_issue_tab.png "Find the issue tab")
-2. Create a new issue
+
+2. Create a new issue<br>
    ![alt text](images/github_issue_new.png "Create a new issue")
-3. Complete the issue form.  Be descriptive!
+
+3. Complete the issue form.  Be descriptive!<br>
     ![alt text](images/github_issue_form.png "Complete issue form")
-4. When you're done with the form, press "Submit new issue".  Your issue is now submitted.
+
+4. When you're done with the form, press "Submit new issue".  Your issue is now submitted.<br>
     ![alt text](images/github_issue_created.png "Issue is now created")
+
 5. Assign someone to the issue using the "Assignees" edit tab
    ![alt text](images/github_issue_assign.png "Assign the issue")
-6. Apply a label to the issue using the "Label" edit tab
+
+6. Apply a label to the issue using the "Label" edit tab<br>
     ![alt text](images/github_issue_label.png "Add a label")
     
 7. Add the issue to a project using the "Project" edit tab<br>
