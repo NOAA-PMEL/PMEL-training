@@ -72,7 +72,7 @@ This training is split up into the following subsections:
 
     NOAA requires Two-Factor Authentication (TFA) on the GitHub website.  To set this up, select "Security" from the "Personal Settings" list:
 
-    ![alt text](/images/github_settings_tfa.png "Two-Factor Authentication")
+    ![alt text](images/github_settings_tfa.png "Two-Factor Authentication")
 
 
 
