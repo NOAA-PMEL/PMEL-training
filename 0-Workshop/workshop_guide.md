@@ -41,9 +41,9 @@ This training is split up into the following subsections:
     3. Exploring repositories
 8. Resources
 
+--------------
 <div class="pagebreak"></div>
 
---------------
 ## 1. GitHub Website and Navigation
 
 1. **User Site vs. NOAA-PMEL**
@@ -77,6 +77,8 @@ This training is split up into the following subsections:
 
 
 --------------
+<div class="pagebreak"></div>
+
 ##  2. Working in an existing repository
 In this exercise, you will create a file within an existing repository
 1. Create and commit a file in a repo from the website
@@ -85,13 +87,26 @@ In this exercise, you will create a file within an existing repository
     <br>
 
 --------------
-## 3. Project Management tool
-1. Create a task within the "GitHub Training Test Board" project
-    <br>
-    1. Task name is: "YourName - Create an Issue"
-2. Move that task to "In progress"
+<div class="pagebreak"></div>
 
+## 3. Project Management tool
+The Project Management tools within Github 
+1. Locate the "Projects" tab and click on it<br>
+   ![alt text](images/github_projects_tab.png "Projects Tab")
+
+2. Select the "GitHub Training Test Board"<br>
+   ![alt text](images/github_projects_window.png "Select Project")
+3. Create a task within the "GitHub Training Test Board" project<br>
+    ![alt text](images/github_projects_addtask.png "Select Project")
+    ![alt text](images/github_projects_addtask2.png "Select Project")
+    Click "Add" when you're done filling in the issue
+4. Drag that task to "In progress"
+    ![alt text](images/github_projects_dragtask.png "Select Project")
+5. Complete!
+    ![alt text](images/github_projects_complete.png "Select Project")
 --------------
+<div class="pagebreak"></div>
+
 ## 4. Issue tracking
 1. Create a new issue
     <br>
@@ -104,6 +119,8 @@ In this exercise, you will create a file within an existing repository
 4. Add yourself as an Assignee
 
 --------------
+<div class="pagebreak"></div>
+
 ##5. Creating a wiki
 1. Create a new page
     <br>
@@ -115,12 +132,13 @@ In this exercise, you will create a file within an existing repository
     3. Create a hyperlink to your readme.md page
 
 --------------
+<div class="pagebreak"></div>
+
 ## 6. Creating a repository
 When creating a repository, you must remember that all funded NOAA work must be created within the **NOAA-PMEL** page.  
 
 The task of creating a repository is fairly straightfoward.  In this example, we will create a new repository within our personal account to minimize how many training repositories end up in **NOAA-PMEL**
 1. From your dashboard, select "+" > "New Repository"<br>
-  
   ![alt text](images/github_mainpage_newrepo.png "Two-Factor Authentication")
 
 2. Fill out the fields based on what you want your repository to reflect<br>
@@ -140,13 +158,18 @@ The task of creating a repository is fairly straightfoward.  In this example, we
     1. Copy the link and use with your Git tool on your desktop or server to interact with this GitHub repository. <br>
    
     ![alt text](images/github_clone_repo_copylink.png "Copy the link")
+
 --------------
+<div class="pagebreak"></div>
+
 ## 7. Other tools
 1. Git Gist
 2. Marketplace
 3. Exploring repositories
 
 --------------
+<div class="pagebreak"></div>
+
 ## 8. Resources 
 ### GitHub Tutorials
 * Introduction to GitHub<br>
