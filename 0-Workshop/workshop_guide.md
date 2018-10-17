@@ -52,21 +52,21 @@ This training is split up into the following subsections:
 
     To change from your personal page to the NOAA-PMEL page, click on the switch dashboard content dropdown, seen here:
 
-    ![alt text](/images/github_mainpage_userpage.png "Switch Dashboard Content Dropdown")
+    ![alt text](images/github_mainpage_userpage.png "Switch Dashboard Content Dropdown")
 
 
 
 1. Your Profile
-    <br> ![alt text](/images/github_mainpage_profile.png "Your Profile")
+    <br> ![alt text](images/github_mainpage_profile.png "Your Profile")
 
     To access your profile page, select the dropdown menu in the upper right-hand corner of your webpage
     with your icon.  From this page you will see your public profile which includes which repositories you work in, and any information about yourself you may provide.
 
-    ![alt text](/images/github_profile_main.png "Your Profile Page")
+    ![alt text](images/github_profile_main.png "Your Profile Page")
 
     
 1. Settings
-    <br> ![alt text](/images/github_mainpage_settings.png "Settings")
+    <br> ![alt text](images/github_mainpage_settings.png "Settings")
 
     Your settings page controls your access to GitHub, security and other configurations.
 
