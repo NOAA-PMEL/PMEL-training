@@ -104,10 +104,10 @@ The Project Management tools within Github
     Click "Add" when you're done filling in the issue
 
 4. Drag that task to "In progress"<br>
-    ![alt text](images/github_projects_dragtask.png "Select Project")
+    ![alt text](images/github_projects_dragtask.png "Drag Task to In Progress")
 
 5. Complete!<br>
-    ![alt text](images/github_projects_complete.png "Select Project")
+    ![alt text](images/github_projects_complete.png "Complete Project Task Creation")
 
 --------------
 <div class="pagebreak"></div>
