@@ -123,10 +123,10 @@ The GitHub issue tracker is a fantastic way to track
 6. Apply a label to the issue using the "Label" edit tab
     ![alt text](images/github_issue_label.png "Add a label")
     
-7. Add the issue to a project using the "Project" edit tab
+7. Add the issue to a project using the "Project" edit tab<br>
     ![alt text](images/github_issue_projects.png "Add to a project")
 
-1. You have completed creating an issue!
+1. You have completed creating an issue!<br>
     ![alt text](images/github_issue_complete.png "Add to a project")
 --------------
 <div class="pagebreak"></div>
