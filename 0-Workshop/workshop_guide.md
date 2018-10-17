@@ -126,7 +126,7 @@ The GitHub issue tracker is a fantastic way to track
 4. When you're done with the form, press "Submit new issue".  Your issue is now submitted.<br>
     ![alt text](images/github_issue_created.png "Issue is now created")
 
-5. Assign someone to the issue using the "Assignees" edit tab
+5. Assign someone to the issue using the "Assignees" edit tab<br>
    ![alt text](images/github_issue_assign.png "Assign the issue")
 
 6. Apply a label to the issue using the "Label" edit tab<br>
