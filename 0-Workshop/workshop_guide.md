@@ -104,20 +104,30 @@ The Project Management tools within Github
     ![alt text](images/github_projects_dragtask.png "Select Project")
 5. Complete!
     ![alt text](images/github_projects_complete.png "Select Project")
+
 --------------
 <div class="pagebreak"></div>
 
 ## 4. Issue tracking
-1. Create a new issue
-    <br>
-    1. Issue should be "Yourname - First issue"
-2. Tag Issue to Project "GitHub Training Test Board"
-    <br>
-3. Apply a label to the issue
-    <br>
-    1. Stick with existing labels
-4. Add yourself as an Assignee
+The GitHub issue tracker is a fantastic way to track
+1. Go to the Issues tab
+   ![alt text](images/github_issue_tab.png "Find the issue tab")
+2. Create a new issue
+   ![alt text](images/github_issue_new.png "Create a new issue")
+3. Complete the issue form.  Be descriptive!
+    ![alt text](images/github_issue_form.png "Complete issue form")
+4. When you're done with the form, press "Submit new issue".  Your issue is now submitted.
+    ![alt text](images/github_issue_created.png "Issue is now created")
+5. Assign someone to the issue using the "Assignees" edit tab
+   ![alt text](images/github_issue_assign.png "Assign the issue")
+6. Apply a label to the issue using the "Label" edit tab
+    ![alt text](images/github_issue_label.png "Add a label")
+    
+7. Add the issue to a project using the "Project" edit tab
+    ![alt text](images/github_issue_projects.png "Add to a project")
 
+1. You have completed creating an issue!
+    ![alt text](images/github_issue_complete.png "Add to a project")
 --------------
 <div class="pagebreak"></div>
 
