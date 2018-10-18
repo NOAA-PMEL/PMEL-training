@@ -1,2 +1,2 @@
-This is my forst file
+This is my first file
 My name is John
