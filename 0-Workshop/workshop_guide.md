@@ -23,6 +23,13 @@ This training is split up into the following subsections:
 
 ## 1. GitHub Website and Navigation
 
+The GitHub website more than just the cloud storage site for a project repository.  GitHub has many powerful tools that provide the user the ability to update, modify and view documenation and code.  Additionally, the issue tracking and project management tools make it an effective site to perform project management tasks on a (relatively, with training) easy to use website.
+
+You can access GitHub by going to:<br>
+www.github.com
+
+As NOAA and CI employees, you *must* have a GitHub account which is tied to your @noaa.gov email address.  Your GitHub account can then be tied to the **NOAA-PMEL** account, giving you access to all of PMELs repositories and the ability to create Private repos.
+
 1. **User Site vs. NOAA-PMEL**
     <br> All work being accomplished under a funded NOAA project **MUST** be commited to a repository on the **NOAA-PMEL** page.    
 
@@ -131,7 +138,7 @@ At this point, you have created and modified a file within a repository in GitHu
 The Project Management tools within Github allow project managers and project maintainers to have a visual tool for keeping track of tasks within a project.  The format used in GitHub is a Kanban board.  In essence, a Kanban board is a columnar progress chart.  For the most basic Kanban board there would be three columns; "To Do", "In Progress" and "Done".  
 
 For this exercise, you will be creating a task in an existing project.  You will then move the task from "To Do" to "In Progress".
- 
+
 1. Locate the "Projects" tab and click on it<br>
    ![alt text](images/github_projects_tab.png "Projects Tab")<br><br>
 
@@ -139,8 +146,8 @@ For this exercise, you will be creating a task in an existing project.  You will
    ![alt text](images/github_projects_window.png "Select Project")<br><br>
 
 3. Create a task within the "GitHub Training Test Board" project<br>
-    ![alt text](images/github_projects_addtask.png "Select Project")<br><br>
-    ![alt text](images/github_projects_addtask2.png "Select Project")<br><br>
+    ![alt text](images/github_projects_addtask.png "Add the task")<br><br>
+    ![alt text](images/github_projects_addtask2.png "Add the task")<br><br>
 
     Click "Add" when you're done filling in the issue
 
@@ -157,7 +164,11 @@ For this exercise, you will be creating a task in an existing project.  You will
 <div class="pagebreak"></div>
 
 ## 4. Issue tracking
-The GitHub issue tracker is a fantastic way to track
+The GitHub issue tracker is a fantastic way to track software bugs, enhancements your project needs, places you
+need help in the project, and questions about the project that need answers.  
+
+In this exercise, you will create an issue, assign it to someone (Eugene, perhaps), label the issue and add it to a project from the project management tool.
+
 1. Go to the Issues tab<br>
    ![alt text](images/github_issue_tab.png "Find the issue tab")<br><br>
 
@@ -180,7 +191,7 @@ The GitHub issue tracker is a fantastic way to track
     ![alt text](images/github_issue_projects.png "Add to a project")<br><br>
 
 1. You have completed creating an issue!<br>
-    ![alt text](images/github_issue_complete.png "Add to a project")<br><br>
+    ![alt text](images/github_issue_complete.png "Issue is created and published")<br><br>
 
 
 <br><br><br>
@@ -191,14 +202,18 @@ The GitHub issue tracker is a fantastic way to track
 
 
 ## 5. Creating a wiki
-1. Create a new page
-    <br>
-    1. Name it "Yourname - wiki"
-2. Use Markdown to create formatted text
-    <br>
-    1. Create a bold text
-    2. Create a hyperlink to pmel.noaa.gov
-    3. Create a hyperlink to your readme.md page
+A Wiki is a great place to keep information about a project for easy reference on the website.  In this exercise, you will create a new Wiki and 
+1. Navigate to the Wiki<br>
+    ![alt text](images/github_wiki_tab.png "Wiki location")<br><br>
+    
+2. Create a new page<br>
+   ![alt text](images/github_wiki_homepage.png "Create a new Wiki Page")<br><br>
+
+3. Use Markdown to create formatted text<br>
+    ![alt text](images/github_wiki_create.png "Fill in the Wiki Page")<br><br>
+
+4. Press "Save page" and admire the results<br>
+    ![alt text](images/github_wiki_complete.png "Wiki Complete")<br><br>
 
 
 <br><br><br>
@@ -207,9 +222,10 @@ The GitHub issue tracker is a fantastic way to track
 <div class="pagebreak"></div>
 
 ## 6. Creating a repository
-When creating a repository, you must remember that all funded NOAA work must be created within the **NOAA-PMEL** page.  
+Eventually, you will want to create your own repository.  This step is fairly simple, but you must remember that all funded NOAA work must be created within the **NOAA-PMEL** page.  
 
-The task of creating a repository is fairly straightfoward.  In this example, we will create a new repository within our personal account to minimize how many training repositories end up in **NOAA-PMEL**
+The task of creating a repository is fairly straightfoward.  In this execise, you will create a new repository within our personal account to minimize how many training repositories end up in **NOAA-PMEL**
+
 1. From your dashboard, select "+" > "New Repository"<br>
   ![alt text](images/github_mainpage_newrepo.png "Two-Factor Authentication")<br><br>
 
@@ -237,10 +253,10 @@ The task of creating a repository is fairly straightfoward.  In this example, we
 --------------
 <div class="pagebreak"></div>
 
-## 7. Other tools
+## 7. Other tools - Explore on your own
 1. Git Gist
 2. Marketplace
-3. Exploring repositories
+3. Search tool -> Explore thousands of repos for free!
 
 
 <br><br><br>
