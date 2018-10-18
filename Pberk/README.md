@@ -1,2 +1,3 @@
-This is my fisrt file
+This is my first file
+
 My name is PATRICK
