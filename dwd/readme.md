@@ -1,2 +1,2 @@
 life is good
-a second line
+a second time
