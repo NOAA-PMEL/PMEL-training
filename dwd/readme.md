@@ -1,2 +1,2 @@
-lifa is good
+life is good
 a second line
