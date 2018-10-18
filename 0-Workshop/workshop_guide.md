@@ -202,7 +202,8 @@ In this exercise, you will create an issue, assign it to someone (Eugene, perhap
 
 
 ## 5. Creating a wiki
-A Wiki is a great place to keep information about a project for easy reference on the website.  In this exercise, you will create a new Wiki and 
+A Wiki is a great place to keep information about a project for easy reference on the website.  In this exercise, you will create a new Wiki and work with the Markdown language to generate a simple but nicely formatted web page.
+
 1. Navigate to the Wiki<br>
     ![alt text](images/github_wiki_tab.png "Wiki location")<br><br>
     
